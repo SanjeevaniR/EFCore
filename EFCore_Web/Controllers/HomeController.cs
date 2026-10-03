@@ -1,4 +1,4 @@
-using EFCore_Web.Models;
+using EFCore_Model.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 

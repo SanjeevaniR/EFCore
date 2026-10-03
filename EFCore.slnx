@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="EFCore_Console/EFCore_Console.csproj" />
+  <Project Path="EFCore_DataAccess/EFCore_DataAccess.csproj" />
+  <Project Path="EFCore_Model/EFCore_Model.csproj" />
   <Project Path="EFCore_Web/EFCore_Web.csproj" />
 </Solution>
